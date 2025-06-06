@@ -59,33 +59,6 @@ bash
 Copiar
 Editar
 flutter pub get
-🔥 Configurando o Firebase
-Crie um projeto no Firebase Console.
-
-Baixe os arquivos de configuração:
-
-google-services.json → coloque em android/app/
-
-GoogleService-Info.plist → coloque em ios/Runner/
-
-Siga o guia oficial: Adicionar Firebase ao seu projeto Flutter
-
-🗺️ Configuração de APIs
-🔑 Google Maps
-Obtenha uma chave de API: Google Cloud Console
-
-Adicione ao AndroidManifest.xml e Info.plist:
-
-xml
-Copiar
-Editar
-<!-- android/app/src/main/AndroidManifest.xml -->
-<meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="SUA_CHAVE_AQUI"/>
-☁️ OpenWeather
-Cadastre-se em OpenWeather
-
-Armazene a chave de API em variáveis de ambiente seguras.
 
 ▶️ Executando o App
 Inicie um emulador ou conecte um dispositivo físico.
