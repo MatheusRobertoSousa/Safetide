@@ -1,3 +1,3 @@
-# alertario_project
+# Safetide
+Um app para um sistema de alerta de enchentes
 
-A new Flutter project.
